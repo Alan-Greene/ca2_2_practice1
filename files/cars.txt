@@ -1,0 +1,9 @@
+Ford,Ford Focus,1000,700,o,2400
+BMW,3Series,7000,750,o,12000
+BMW,5Series,17000,700,o,30000
+Honda,Honda Jazz,5000,550,o,8000
+Honda,Honda Stream,5250,400,o,7800
+Mitsubishi,Mitsubishi Outlander,21000,750,o,30000
+Nissan,Nissan Micra,7000,400,t,10000
+Nissan,Nissan Micra,4000,300,t,6000
+Mitsubishi,Mitsubishi Colt,10895,900,t,14000
